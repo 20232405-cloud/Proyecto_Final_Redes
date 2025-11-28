@@ -1,4 +1,21 @@
 {
-    "velocidad_subida_mbps": 0.0,
-    "velocidad_descarga_mbps": 0.27
+    "rtts": [
+        146,
+        224,
+        143,
+        140,
+        141,
+        184,
+        142,
+        181,
+        142,
+        141
+    ],
+    "ping_promedio": 158.4,
+    "jitter": 36.333333333333336,
+    "perdida_total": 0.0,
+    "total_enviados": 50,
+    "total_recibidos": 50,
+    "qoe": 53.79,
+    "mos": 3
 }

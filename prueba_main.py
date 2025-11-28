@@ -14,7 +14,7 @@ total_recibidos = 0
 
 # Métricas por bloque
 rtts = []           # Guarda la latencia promedio de cada bloque
-bloques_max = 2    # Procesar 5 bloques
+bloques_max = 10    # Procesar 5 bloques
 bloques_proc = 0
 
 # Estado del bloque actual

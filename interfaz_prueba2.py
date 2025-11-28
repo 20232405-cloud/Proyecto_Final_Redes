@@ -41,7 +41,7 @@ class InterfazMetricas(tk.Tk):
 
         # Insertar valores
         for key, value in data.items():
-            self.tree.insert("", tk.END, values=(key, f"{value:.2f}"))
+            self.tree.insert("", tk.END, values=(key, f"{value}"))
 
 if __name__ == "__main__":
     InterfazMetricas().mainloop()

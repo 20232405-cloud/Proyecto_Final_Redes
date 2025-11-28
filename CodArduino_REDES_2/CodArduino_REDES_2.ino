@@ -3,8 +3,8 @@
 #include <Wire.h>
 
 //Configura tu red WiFi
-const char* ssid = "ulwifiI1";
-const char* password = "";
+const char* ssid = "MOVISTAR6819";
+const char* password = "zxfm5576";
 
 // configurar numero de envios de paquetes
 int enviados = 5;
